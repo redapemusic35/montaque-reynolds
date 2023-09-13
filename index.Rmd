@@ -1,0 +1,22 @@
+---
+title: "Montaque Reynolds"
+image: "profile.JPG"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+Welcome to my website.
+
+I am a fifth year PhD Candidate in the Department of Philosophy at Saint Louis University. I am primarily interested in moral epistemology and cognitive psychology. This means that I primarily ask questions about actual sources of moral knowledge.
+
+On this website, you can find links to my curriculum vitae, dissertation abstract, and some projects that I am currently working on. Send me an email or message on Discord if you would like to talk over coffee sometime.

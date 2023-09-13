@@ -1,0 +1,18 @@
+name: "."
+title: "montaque reynolds"
+description: |
+  I am a fifth year PhD Candidate in the Department of Philosophy at Saint Louis University. I mainly work in the areas of moral psychology, moral epistemology.
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "CV"
+      href: curriculum-vitae.html
+    - text: "Blog"
+      href: doss.html
+output: distill::distill_article
+theme: postcards.css
+
