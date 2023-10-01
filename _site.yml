@@ -11,8 +11,8 @@ navbar:
       href: about.html
     - text: "CV"
       href: curriculum-vitae.html
-    - text: "Blog"
-      href: doss.html
+    - text: "Notes"
+      href: https://notebook.montaque-reynolds.com/
 output: distill::distill_article
 theme: postcards.css
 

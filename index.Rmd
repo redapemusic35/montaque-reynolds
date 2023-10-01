@@ -1,15 +1,15 @@
 ---
 title: "Montaque Reynolds"
-image: "profile.JPG"
+image: "./profile.JPG"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+#  - label: LinkedIn
+#    url: "https://linkedin.com/"
+#  - label: Twitter
+#    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/redapemusic35"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:montaque.reynolds@slu.edu"
 site: distill::distill_website
 output:
   postcards::trestles
