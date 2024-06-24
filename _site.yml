@@ -12,7 +12,7 @@ navbar:
     - text: "CV"
       href: curriculum-vitae.html
     - text: "Notes"
-      href: https://notebook.montaque-reynolds.com/
+      href: https://philosophy-of-play.netlify.app/
 output: distill::distill_article
 theme: postcards.css
 
