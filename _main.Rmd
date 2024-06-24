@@ -28,7 +28,7 @@ title: "Research"
 #description: |
 ---
 
-```{r setup, include=FALSE}
+```{r setup-1, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
@@ -81,8 +81,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Adorjan Hall 130 * 3800 Lindell Blvd * Saint Louis, MO 63108  
-montaque.reynolds@slu.edu * www.montaque-reynolds.com   
+Adorjan Hall 130 * 3800 Lindell Blvd * Saint Louis, MO 63108
+montaque.reynolds@slu.edu * www.montaque-reynolds.com
 206-234-3477 (c) * 314-977-3149 (w)
 
 ### Dissertation Title
@@ -97,7 +97,7 @@ Philosophy of Mind, Meta-Ethics
 
 Philosophy of Law, Ethics, Epistemology
 
-### Education 
+### Education
 
 Ph.D. Philosophy, Saint Louis University 2024 (Expected)
 
@@ -139,7 +139,7 @@ Chakrabarty, Urna, Romy Feiertag, Anne-Marie McCallion, Brian McNiff, Jesse Prin
 
 2021 Saint Louis University PGSA Conference, Virtue and Wisdom, Co-Organizer
 
-## Teaching Experience 
+## Teaching Experience
 
 ### Instructor of Record
 
@@ -149,7 +149,7 @@ Chakrabarty, Urna, Romy Feiertag, Anne-Marie McCallion, Brian McNiff, Jesse Prin
 
 2021 *Introduction to Ethics: Phil 2050*, Saint Louis University
 
-2016 *Philosophies of Life: Phil 1213* Oklahoma State University 
+2016 *Philosophies of Life: Phil 1213* Oklahoma State University
 
 ### Graduate Teaching Assistant
 
@@ -163,7 +163,7 @@ Chakrabarty, Urna, Romy Feiertag, Anne-Marie McCallion, Brian McNiff, Jesse Prin
 
 2015 Graduate Teaching Assistant, *Philosophies of Life: Phil 1213*, Oklahoma State University
 
-### Research Experience 
+### Research Experience
 
 2022 Research Assistant, *Walter J. Ong Center for the Digital Humanities*
 

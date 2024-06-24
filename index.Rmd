@@ -1,6 +1,6 @@
 ---
 title: "Montaque Reynolds"
-image: "./profile.JPG"
+image: "profile.JPG"
 links:
 #  - label: LinkedIn
 #    url: "https://linkedin.com/"

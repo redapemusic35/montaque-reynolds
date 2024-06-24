@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - text: "CV"
       href: curriculum-vitae.html
-    - text: "Notes"
+    - text: "Blog"
       href: https://philosophy-of-play.netlify.app/
 output: distill::distill_article
 theme: postcards.css
