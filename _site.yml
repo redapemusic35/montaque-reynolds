@@ -8,9 +8,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About"
-      href: about.html
+      href: https://philosophy-of-play.netlify.app/about/
     - text: "CV"
-      href: curriculum-vitae.html
+      href: https://philosophy-of-play.netlify.app/about/curriculum-vitae/
     - text: "Blog"
       href: https://philosophy-of-play.netlify.app/
 output: distill::distill_article
