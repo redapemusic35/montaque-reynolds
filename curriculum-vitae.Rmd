@@ -1,14 +1,12 @@
 ---
 title: "Curriculum Vitae"
 #description:
-author:
-  - name: Monty
-    url: {}
-date: 2023-09-12
 output:
   distill::distill_article:
     self_contained: false
 ---
 
+
+I am primarily interested in questions about moral knowledge and their sources. I typically ask questions regarding moral testimony as testimony about one's moral identity. I specifically look at areas of popular forms of art, asking what these may say about the various suggested ways in which one may find an identity. The documents below are interactive, meaning that you can read them in the window provided or download it to your device.
 
 <iframe src="https://drive.google.com/file/d/1v7CH7WSMcn2n7blYdme8cc5TY8AXaG-p/preview" width="640" height="480" allow="autoplay"></iframe>
