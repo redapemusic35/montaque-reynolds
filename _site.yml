@@ -5,14 +5,14 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
+    - text: "About"
+      href: about.html
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
       href: curriculum-vitae.html
-    - text: "Blog"
-      href: https://philosophy-of-play.netlify.app/
+      #- text: "Blog"
+      #href: https://philosophy-of-play.netlify.app/
 output: distill::distill_article
 theme: postcards.css
 
