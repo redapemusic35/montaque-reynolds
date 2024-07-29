@@ -1,0 +1,9 @@
+---
+title: "Research"
+#description: |
+---
+
+
+I am primarily interested in questions about moral knowledge and their sources. I typically ask questions in moral epistemology, and [agency]("https://philpapers.org/rec/CHAAPA-15#:~:text=Adaptive%20preferences%20have%20been%20extensively,and%20other%20conditions%20of%20oppression."), especially regarding moral testimony as testimony about one's moral identity. I specifically look at areas of popular forms of art, asking what these may say about the various suggested ways in which one may find an identity. The documents below are interactive, meaning that you can read them in the window provided or download it to your device.
+
+<iframe src="https://drive.google.com/file/d/1MJa0og441EgeEn_VhcPH-mNt5DGITBvB/preview" width="100%" height="400px" allow="autoplay"></iframe>
