@@ -3,7 +3,20 @@ title: "Research"
 #description: |
 ---
 
+I received my PhD in philosophy from Saint Louis University in 2024 and am currently teaching ethics at Lewis and Clark Community College.
 
-I am primarily interested in questions about moral knowledge and their sources. I typically ask questions in moral epistemology, and [agency]("https://philpapers.org/rec/CHAAPA-15#:~:text=Adaptive%20preferences%20have%20been%20extensively,and%20other%20conditions%20of%20oppression."), especially regarding moral testimony as testimony about one's moral identity. I specifically look at areas of popular forms of art, asking what these may say about the various suggested ways in which one may find an identity. The documents below are interactive, meaning that you can read them in the window provided or download it to your device.
+My research is interdisciplinary, often referencing digital technology for its central importance in moral testimony. The socialist turn refers to the understanding developed by epistemologists that knowledge is more a social endeavor than it is a solipsistic one. In this explanation of knowledge, a person’s community, and their access to such is a part of the explanation of how an epistemic agent comes to know a given proposition.
+
+I am generally interested in philosophy of mind, moral testimony and psychology where I focus on questions regarding the formation of human agency in a social network, and through emotion. In my academic work, I focus broadly on narratives themselves, and what narratives can do for moral agency.
+
+I am also interested in moral testimony as testimony about one's moral identity. I specifically look at areas of popular forms of art, asking what these may say about the various suggested ways in which one may find an identity. The documents below are interactive, meaning that you can read them in the window provided or download it to your device.
+
+I have published worked on adaptive agency and preferences which can be found here:
+
+<div class='ppl-widget-container'>One moment, publications loading ... (or view them <a href="https://philpapers.org/profile/979726?widget_failed=1">here</a>)</div>
+<script type="text/javascript" src="https://philpeople.org/widget/871106.js"></script>
+
+and I have an early draft on [moral deference and imaginative experience here](
+
 
 <iframe src="https://drive.google.com/file/d/1MJa0og441EgeEn_VhcPH-mNt5DGITBvB/preview" width="100%" height="400px" allow="autoplay"></iframe>
